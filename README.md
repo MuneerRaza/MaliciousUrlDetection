@@ -144,8 +144,9 @@ MaliciousUrlDetection/
 - **Response**:
   ```json
   {
-    "malicious": 75.5
-  }
+        'malicious': 0.75,
+        'benign': 0.25
+    }
   ```
 
 ---
